@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald|Shrikhand');
+
+.nav-wrapper {
+    background-color:#8aacf5;
+}
+
+.brand-logo {
+    font-family: 'Shrikhand', cursive;
+}
+
+a#save {
+    margin-left: 10px;
+}
+
+.card-action a {
+    color: black !important;
+}
+body {
+    background-image: url("../images/bg3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Oswald', sans-serif;
+}
+
+.delete-button {
+    margin-left: 10px;
+}
+
+.home {
+    text-shadow: 2px 2px #3a3a3a;
+}

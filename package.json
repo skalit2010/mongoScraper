@@ -1,0 +1,25 @@
+{
+  "name": "hw-13",
+  "version": "1.0.0",
+  "description": "Mongo Scraper",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skalit2010/mongoScraper.git"
+  },
+  "author": "Ferrin Simanungkalit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skalit2010/mongoScraper/issues"
+  },
+  "homepage": "https://github.com/skalit2010/mongoScraper#readme",
+  "dependencies": {
+    "mongoose": "^5.4.16",
+    "morgan": "^1.9.1",
+    "request": "^2.88.0"
+  }
+}
