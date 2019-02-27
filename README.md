@@ -1,4 +1,4 @@
-# Mongo-Scrapper
+# Mongo-Scraper
 A web-scraping app developed using Mongo
 
 ## Walk Through
