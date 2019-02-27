@@ -3,6 +3,7 @@ A web-scraping app developed using Mongo
 
 ## Walk Through
 The application will let the user scrape news articles from Soompi website. When the user clicks on the "Scrape Article" button, a certain amount of articles will get displayed  as a card with the following information:
+
 -Title
 -Link to the Article(Click on "Go to the article link")
 
