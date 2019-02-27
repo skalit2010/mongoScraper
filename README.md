@@ -22,7 +22,7 @@ A note can be created in the saved article by clicking on "Create Notes" button.
 Materialize: http://materializecss.com/getting-started.html
 
 ## Screenshots
-![screenshot of the App](scraped-articles.png)
+![screenshot of the App]https://github.com/skalit2010/mongoScraper/blob/master/public/images/homepg.png
 ![screenshot of the App](saved-articles.png)
 ![screenshot of the App](create-notes.png)
 ![screenshot of the App](created-note.png)
